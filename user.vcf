@@ -3,7 +3,7 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Foo;Gabriel;;;
 FN: Gabriel Foo 
-ORG:PMOSG;
+ORG:Prime Minister's Office;
 TITLE:CISO, IT Directorate
 EMAIL;type=INTERNET;type=WORK;type=pref:gabriel_foo@pmo.gov.sg
 TEL;type=WORK;type=VOICE:+65 9115 2670
