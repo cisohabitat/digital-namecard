@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:gabriel_foo@pmo.gov.sg
 TEL;type=WORK;type=VOICE:+65 9115 2670
 item1.ADR;type=WORK;type=pref:;;100 High Street\n03-01 The Treasury;;;179434;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:strategygroup.gov.sg
+item2.URL;type=pref:https://www.linkedin.com/in/foogabriel/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
