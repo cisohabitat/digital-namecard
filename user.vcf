@@ -4,7 +4,7 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Foo;Gabriel;;;
 FN: Gabriel Foo 
 ORG:Prime Minister's Office;
-TITLE:CISO, IT Directorate
+TITLE:CISO
 EMAIL;type=INTERNET;type=WORK;type=pref:gabriel_foo@pmo.gov.sg
 TEL;type=WORK;type=VOICE:+65 9115 2670
 item1.ADR;type=WORK;type=pref:;;100 High Street\n03-01 The Treasury;;;179434;Singapore
