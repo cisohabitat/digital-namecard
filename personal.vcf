@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Foo;Gabriel;;;
+FN: Gabriel Foo 
+ORG:Prime Minister's Office;
+TITLE:CISO
+EMAIL;type=INTERNET;type=WORK;type=pref:gabriel_foo_cm@outlook.com
+TEL;type=WORK;type=VOICE:+65 9115 2670
+item1.ADR;type=WORK;type=pref:;;100 High Street\n03-01 The Treasury;;;179434;Singapore
+item1.X-ABADR:sg
+item2.URL;type=pref:www.linkedin.com/in/foogabriel/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
